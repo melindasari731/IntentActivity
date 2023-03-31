@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="this_is_second_activity">This is Second Activity\!</string>
+    <string name="textview">TextView</string>
+    <string name="send">SEND</string>
+    <string name="i_am">I am</string>
+    <string name="who_are_you">Who Are You\?</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="melinda_sari">Melinda Sari</string>
+    <string name="siapa_namamu">Siapa Namamu?</string>
+    <string name="saya">Saya</string>
+</resources>
